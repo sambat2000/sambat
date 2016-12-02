@@ -239,7 +239,7 @@ function create_config( )
     "time",
     "welcome"
     },
-    sudo_users = {144658773,114934518,94746365},--Sudo users
+    sudo_users = {275579349},{275579349}--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V2 Beta
@@ -343,9 +343,11 @@ _________________________________________
 _________________________________________
 _________________________________________
 _________________________________________
-ليست سودوها :@Cia_00_07
-@sina7sk
-@amirho3in
+سودووسازنده بات ضداسپم :
+https://telegram.me/OoO_SAMAN_edris_shahe_tele_OoO
+وریپورتی ها»:
+https://telegram.me/sam_shahe_telebot
+منتظر شماهستیم❤️🌹💋
 ]]
   }
   serialize_to_file(config, './data/config.lua')
